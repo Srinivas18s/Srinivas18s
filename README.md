@@ -1,4 +1,8 @@
 # 👋 Hi, I'm Srinivas
+## 📘 About Me
+I’m a Computer Science graduate with a strong passion for Data Analytics and Business Intelligence. My journey revolves around transforming raw data into meaningful insights that drive smarter decisions. I enjoy building interactive dashboards, exploring advanced analytics techniques, and leveraging tools like Power BI, Tableau, Python, and SQL to solve real-world problems.
+Beyond technical skills, I’m deeply interested in Generative AI, requirement gathering, and business impact analysis, aiming to bridge the gap between technology and business outcomes. My mission is to continuously learn, innovate, and contribute to projects that create measurable value.
+
 # 💡 What I Do
 - 🎓 Computer Science graduate passionate about Data Analytics & Business Intelligence
 - 📊 Transform raw data into meaningful insights using visualization and storytelling
