@@ -16,6 +16,7 @@ Here are the tools I’m proficient in:
 -  Python – Data manipulation, analysis, and automation
 -  SQL – Querying, joins, and database management
 -  Excel – Pivot tables, formulas, and quick analysis.
+-  <p align="center"><img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?style=for-the-badge&logo=powerbi" /><img src="https://img.shields.io/badge/Tableau-Analytics-orange?style=for-the-badge&logo=tableau" /><img src="https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge&logo=python" /><img src="https://img.shields.io/badge/SQL-Database-lightgrey?style=for-the-badge&logo=postgresql" /><img src="https://img.shields.io/badge/Excel-Data%20Analysis-green?style=for-the-badge&logo=microsoft-excel" /></p>
    <p align="left">📊 🔮 🐍 🗄️ 📑</p>
 
 
