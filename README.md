@@ -37,7 +37,7 @@ Here are the tools I’m proficient in:
 - 🚀 To continuously learn and adapt to emerging technologies in analytics and AI
 
 
-🤝 Let’s Connect
+## 🤝 Let’s Connect
 - 📂 Just go through my repositories to explore my projects and dashboards.
 - ⭐ Feel free to star or fork anything that interests you.
 - 💬 Open an issue if you’d like to collaborate or discuss improvements.
