@@ -7,11 +7,14 @@
 
 # 🛠️ Tools & Technologies
 Here are the tools I’m proficient in:
-- 📊 Power BI – Interactive dashboards & DAX measures
-- 📈 Tableau – Advanced visualizations & storytelling
-- 🐍 Python – Data manipulation, analysis, and automation
-- 🗄️ SQL – Querying, joins, and database management
-- 📑 Excel – Pivot tables, formulas, and quick analysi
+-  Power BI – Interactive dashboards & DAX measures
+-  Tableau – Advanced visualizations & storytelling
+-  Python – Data manipulation, analysis, and automation
+-  SQL – Querying, joins, and database management
+-  Excel – Pivot tables, formulas, and quick analysis.
+- <p align="center">📊 🔮 🐍 🗄️ 📑</p>
+
+
 
 # 📘 Relevant Coursework
 - 🔒 Data Integrity – Ensuring accuracy and consistency in datasets
@@ -22,7 +25,12 @@ Here are the tools I’m proficient in:
 - 💼 Business Impact Analysis – Measuring the effect of data-driven decisions
 
 # 🎯 My Mission
-To bridge the gap between data and decision-making by creating impactful dashboards, leveraging AI, and driving business growth through analytics.
+- 🌍 To bridge the gap between data and decision-making by creating impactful dashboards.
+- 📈 To empower businesses with data-driven strategies that improve efficiency and growth.
+- 🤖 To explore AI-powered analytics for smarter insights and automation.
+- 🧑‍🤝‍🧑 To collaborate with teams and organizations in solving real-world problems using data.
+- 🚀 To continuously learn and adapt to emerging technologies in analytics and AI
+
 
 🤝 Let’s Connect
 - 📂 Just go through my repositories to explore my projects and dashboards.
