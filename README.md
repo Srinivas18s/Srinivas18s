@@ -16,7 +16,7 @@ Here are the tools I’m proficient in:
 -  Python – Data manipulation, analysis, and automation
 -  SQL – Querying, joins, and database management
 -  Excel – Pivot tables, formulas, and quick analysis.
-- <p align="left">📊 🔮 🐍 🗄️ 📑</p>
+   p align="left">📊 🔮 🐍 🗄️ 📑</p>
 
 
 
